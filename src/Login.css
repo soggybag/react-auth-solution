@@ -1,0 +1,15 @@
+.Login form {
+	display: flex;
+	flex-direction: column;
+}
+
+.Login form input, .Login form button {
+	padding: 1rem;
+	font-size: 1rem;
+	border: 1px solid;
+}
+
+.Login form label {
+	display: flex;
+	flex-direction: column;
+}
